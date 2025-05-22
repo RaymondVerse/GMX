@@ -7,7 +7,7 @@ import pandas as pd
 
 from synthetix import Synthetix
 
-# Base Mainnet
+
 """
     To use the library, initialize the Synthetix object that can be used to interact with the protocol. At minimum, you must provide an RPC endpoint.
 """
