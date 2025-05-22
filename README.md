@@ -1,2 +1,1 @@
-# GMX
-Convert GMX in Linux to windows 
+Get All funding rates accroding to each Coin from GMX and Synthetix

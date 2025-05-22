@@ -1,0 +1,202 @@
+[
+    {
+        "Coin":"BTC",
+        "Long Funding APR":-0.2913230735,
+        "Short Funding APR":0.2912782395
+    },
+    {
+        "Coin":"ETH",
+        "Long Funding APR":-0.2004307921,
+        "Short Funding APR":0.2118420777
+    },
+    {
+        "Coin":"DOGE",
+        "Long Funding APR":-0.9132420091,
+        "Short Funding APR":1.2712258981
+    },
+    {
+        "Coin":"SOL",
+        "Long Funding APR":0.4631759634,
+        "Short Funding APR":-0.4573698316
+    },
+    {
+        "Coin":"LTC",
+        "Long Funding APR":-0.9277814954,
+        "Short Funding APR":1.3803346252
+    },
+    {
+        "Coin":"UNI",
+        "Long Funding APR":40.1972027532,
+        "Short Funding APR":-0.9260118527
+    },
+    {
+        "Coin":"LINK",
+        "Long Funding APR":-0.1260037469,
+        "Short Funding APR":0.1203126123
+    },
+    {
+        "Coin":"ARB",
+        "Long Funding APR":-0.9132420091,
+        "Short Funding APR":0.9751412204
+    },
+    {
+        "Coin":"XRP",
+        "Long Funding APR":-0.4494822125,
+        "Short Funding APR":0.5144795351
+    },
+    {
+        "Coin":"BNB",
+        "Long Funding APR":-0.3651385363,
+        "Short Funding APR":0.4961448483
+    },
+    {
+        "Coin":"AAVE",
+        "Long Funding APR":0.0063577394,
+        "Short Funding APR":-0.0724766323
+    },
+    {
+        "Coin":"ATOM",
+        "Long Funding APR":0.0273463544,
+        "Short Funding APR":-0.0279267928
+    },
+    {
+        "Coin":"NEAR",
+        "Long Funding APR":-0.9273993867,
+        "Short Funding APR":0.8918822461
+    },
+    {
+        "Coin":"AVAX",
+        "Long Funding APR":-0.484557601,
+        "Short Funding APR":0.4786998964
+    },
+    {
+        "Coin":"OP",
+        "Long Funding APR":-0.2614165497,
+        "Short Funding APR":0.2996186612
+    },
+    {
+        "Coin":"BTC2",
+        "Long Funding APR":0.6479373989,
+        "Short Funding APR":-0.6473646213
+    },
+    {
+        "Coin":"ETH2",
+        "Long Funding APR":-0.9555944714,
+        "Short Funding APR":0.9465428882
+    },
+    {
+        "Coin":"GMX",
+        "Long Funding APR":-0.1080072238,
+        "Short Funding APR":0.1119074799
+    },
+    {
+        "Coin":"PEPE",
+        "Long Funding APR":-1.0608787906,
+        "Short Funding APR":1.3505358762
+    },
+    {
+        "Coin":"WIF",
+        "Long Funding APR":0.3394915385,
+        "Short Funding APR":-0.3650837762
+    },
+    {
+        "Coin":"wstETH",
+        "Long Funding APR":0.2219635287,
+        "Short Funding APR":-0.4335049943
+    },
+    {
+        "Coin":"SHIB",
+        "Long Funding APR":-0.9246575342,
+        "Short Funding APR":1.0765267611
+    },
+    {
+        "Coin":"STX",
+        "Long Funding APR":-1.0839065169,
+        "Short Funding APR":1.1821298106
+    },
+    {
+        "Coin":"ORDI",
+        "Long Funding APR":-0.9277815768,
+        "Short Funding APR":1.0037921868
+    },
+    {
+        "Coin":"EIGEN",
+        "Long Funding APR":-0.6390327094,
+        "Short Funding APR":0.6365174009
+    },
+    {
+        "Coin":"SATS",
+        "Long Funding APR":-0.2721824899,
+        "Short Funding APR":0.028786959
+    },
+    {
+        "Coin":"POL",
+        "Long Funding APR":-0.9277815225,
+        "Short Funding APR":1.0388606429
+    },
+    {
+        "Coin":"APE",
+        "Long Funding APR":-0.9132420091,
+        "Short Funding APR":9.9802992386
+    },
+    {
+        "Coin":"SUI",
+        "Long Funding APR":-0.427895125,
+        "Short Funding APR":0.484330633
+    },
+    {
+        "Coin":"SEI",
+        "Long Funding APR":-0.9154727521,
+        "Short Funding APR":0.9917735665
+    },
+    {
+        "Coin":"APT",
+        "Long Funding APR":-0.9277817394,
+        "Short Funding APR":1.1204342498
+    },
+    {
+        "Coin":"TIA",
+        "Long Funding APR":-0.6305290526,
+        "Short Funding APR":0.5794771207
+    },
+    {
+        "Coin":"TRX",
+        "Long Funding APR":-0.0136567916,
+        "Short Funding APR":0.0143396087
+    },
+    {
+        "Coin":"TON",
+        "Long Funding APR":0.0010786255,
+        "Short Funding APR":-0.0247012555
+    },
+    {
+        "Coin":"TAO",
+        "Long Funding APR":-0.9170986656,
+        "Short Funding APR":0.9737647999
+    },
+    {
+        "Coin":"BONK",
+        "Long Funding APR":-0.793884136,
+        "Short Funding APR":1.3726960438
+    },
+    {
+        "Coin":"WLD",
+        "Long Funding APR":-0.9284596861,
+        "Short Funding APR":7.0093860012
+    },
+    {
+        "Coin":"BOME",
+        "Long Funding APR":-0.5961411464,
+        "Short Funding APR":0.6502131486
+    },
+    {
+        "Coin":"MEME",
+        "Long Funding APR":-0.6326045854,
+        "Short Funding APR":0.6338791465
+    },
+    {
+        "Coin":"FLOKI",
+        "Long Funding APR":-0.5748903845,
+        "Short Funding APR":0.6885035052
+    }
+]
