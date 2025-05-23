@@ -40,7 +40,8 @@ def create_funding_dataframe(gmx_data, synthetix_data):
     synthetix_df = pd.DataFrame(
         synthetix_filtered_data, columns=['Market Name', 'Current Funding Rate']
     )
-    synthetix_df["Annualized Funding Rate"] = synthetix_df["Current Funding Rate"] * 8760 * 100
+    synthetix_df["Annualized Funding Rate"] = synthetix_df["Current Funding Rate"] * 8760
+    # synthetix_df["1H Funding Rate"] = synthetix_df["Current Funding Rate"]
     synthetix_df = synthetix_df.drop(columns=["Current Funding Rate"])
 
     return gmx_df, synthetix_df
